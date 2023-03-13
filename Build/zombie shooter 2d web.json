@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "zombi shooter 2d",
+"productVersion": "1.0",
+"dataUrl": "zombie shooter 2d web.data.unityweb",
+"wasmCodeUrl": "zombie shooter 2d web.wasm.code.unityweb",
+"wasmFrameworkUrl": "zombie shooter 2d web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
